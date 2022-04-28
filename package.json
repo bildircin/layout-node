@@ -17,10 +17,13 @@
   "homepage": "https://github.com/bildircin/layout-node#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.3",
+    "express": "^4.18.0",
     "express-ejs-layouts": "^2.5.1",
     "node": "^17.7.2",
     "nodemon": "^2.0.15"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
 }
